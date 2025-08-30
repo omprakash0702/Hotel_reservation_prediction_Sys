@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/study/python/MLOPS/01/mlruns/0/7923e1381b3e4c8c8c8537f0ebe8bc11/artifacts
+end_time: 1756491191180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7923e1381b3e4c8c8c8537f0ebe8bc11
+run_name: powerful-snake-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756491051716
+status: 3
+tags: []
+user_id: KIIT

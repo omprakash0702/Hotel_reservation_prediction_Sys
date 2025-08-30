@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/study/python/MLOPS/01/mlruns/0/18b9a39dabc14ac7997bf67d0f9989ac/artifacts
+end_time: 1756477186620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18b9a39dabc14ac7997bf67d0f9989ac
+run_name: rogue-bat-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477186511
+status: 4
+tags: []
+user_id: KIIT

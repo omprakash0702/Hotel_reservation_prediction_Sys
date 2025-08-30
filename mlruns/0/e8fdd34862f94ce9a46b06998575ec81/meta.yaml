@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/study/python/MLOPS/01/mlruns/0/e8fdd34862f94ce9a46b06998575ec81/artifacts
+end_time: 1756478451788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8fdd34862f94ce9a46b06998575ec81
+run_name: nosy-duck-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756478317283
+status: 3
+tags: []
+user_id: KIIT

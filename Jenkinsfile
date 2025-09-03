@@ -70,6 +70,8 @@ pipeline{
                         gcloud auth activate-service-account --key-file=${GOOGLE_APPLICATION_CREDENTIALS}
 
                         gcloud config set project ${GCP_PROJECT}
+                        
+                        gcloud services enable run.googleapis.com
 
                         gcloud run deploy ml-project \
                             --image=gcr.io/${GCP_PROJECT}/ml-project:latest \
